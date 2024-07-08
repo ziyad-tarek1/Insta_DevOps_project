@@ -1,0 +1,6 @@
+# Ignore files and directories
+#db.go
+#go.mod
+#go.sum
+#main.go
+README.md
